@@ -2,7 +2,7 @@
 IFPB - SISTEMAS PARA INTERNET
 Banco de Dados I - NILTON FREIRE
 Projeto de Banco de Dados
-Alunos:	Pedro Henrique de Sales Xavier
+Aluno:	Pedro Henrique de Sales Xavier
 */
 
 -- Atualizações
